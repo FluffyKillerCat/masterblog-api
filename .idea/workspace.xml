@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f32be48-ee2b-4793-8442-069ccc98ecd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.codio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.guides/content/generated_pages.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.guides/img/Masterschool-logomark-white_on_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.guides/img/export_project.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.guides/img/meme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.guides/img/swagger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.guides/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/masterblog-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/backend_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/frontend_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/static/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/static/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/backend_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend_app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741608466961</updated>
-      <workItem from="1741608467992" duration="4214000" />
+      <workItem from="1741608467992" duration="4696000" />
     </task>
     <servers />
   </component>
