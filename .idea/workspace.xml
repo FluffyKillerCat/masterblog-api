@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f32be48-ee2b-4793-8442-069ccc98ecd7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/backend_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/backend_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/frontend_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/frontend_app.py" afterDir="false" />
-    </list>
+    <list default="true" id="1f32be48-ee2b-4793-8442-069ccc98ecd7" name="Changes" comment="fixed bug in delete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "FluffyKillerCat"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/FluffyKillerCat/masterblog-api.git",
@@ -133,12 +135,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741608466961</updated>
-      <workItem from="1741608467992" duration="13122000" />
+      <workItem from="1741608467992" duration="13666000" />
     </task>
+    <task id="LOCAL-00001" summary="fixed bug in delete">
+      <option name="closed" value="true" />
+      <created>1741626239770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741626239770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed bugs in delete and add" />
+    <MESSAGE value="fixed bug in delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed bug in delete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
